@@ -1,3 +1,3 @@
 #Dockerfiles
 
-A collection of Dockerfilesss
+A collection of Dockerfiles

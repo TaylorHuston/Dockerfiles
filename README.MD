@@ -1,3 +1,3 @@
 #Dockerfiles
 
-A collection of practice Dockerfiles
+A collection of my Dockerfiles, mostly just for practice
